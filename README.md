@@ -65,7 +65,7 @@ portfolio-website/
 
 * 🌍 [LinkedIn](https://www.linkedin.com/in/n4nikhilofficial)
 * 💻 [GitHub](https://github.com/n4nikhilofficial)
-* 📧 Email: [nikhilrana934rana@gamil.com](mailto:nikhilrana934rana@gamil.com)
+* 
 
 ---
 
@@ -74,3 +74,4 @@ portfolio-website/
 
 
 👉 Do you want me to also make a **README badge section** (skills like HTML, CSS, JS, GitHub with shields.io icons) so it looks more professional on GitHub?
+
